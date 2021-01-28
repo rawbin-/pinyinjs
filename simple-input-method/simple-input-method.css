@@ -5,6 +5,7 @@
     font-family: 'Arial';
     color: #0364CD;
     display: none;
+    z-index: 99;
 }
 .simple-input-method .pinyin {
     border-bottom: solid 1px #B5C5D2;
